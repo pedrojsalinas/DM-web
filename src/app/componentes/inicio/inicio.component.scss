@@ -1,0 +1,36 @@
+.site-content {
+  background-image: url("../../../assets/espacio.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+.site-title {
+  margin-top: 10rem;
+  margin-bottom: 2rem;
+  font-size: 3rem;
+  font-weight: 550;
+  font-family: 'Archivo Black', sans-serif;
+}
+.site-desc {
+  font-size: 1rem;
+}
+
+.site-btn1, .site-btn2 {
+  margin-top: 1rem;
+  margin-bottom: 8rem;
+}
+.texto{
+  font-weight: 500;
+  font-size: 1.5rem;
+  margin-bottom: 8rem;
+  font-family: 'Roboto', sans-serif;
+}
+.card-text{
+  font-size: 1rem;
+  font-family: 'Roboto', sans-serif;
+}
+.row-eq-height {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+}
